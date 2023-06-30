@@ -1,0 +1,25 @@
+------------------------------------------[ ATM MACHINE PROJECT ]-------------------------------------------
+
+1. ConnectDataBase ---> 	We will write code only to connect to Database and to get and update data in the tables.
+				i. ConnectToDataBase
+				ii. logIn()
+				iii. getBalance()
+				iv. withdrawMoney()
+				v. depositMoney()
+
+
+2. Bank ---> 			loginCustomer()
+				displayMenu()	
+				checkBalance()
+				withdrawMoney()
+				depositMoney()
+				logOut()
+
+--------------------------------------------------------------------------------------------------------------
+
+DataBase Design
+
+1. Bank (Database)
+2. Customer
+3. Account
+
